@@ -1,0 +1,1 @@
+--l1isz=64kB --l1dsz=16kB --l2sz=4096kB --clk=3GHz
